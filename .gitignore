@@ -3,3 +3,4 @@
 .cpcache/3076720795.libs
 .calva/output-window/output.calva-repl
 .calva/output-window/.clj-kondo/config.edn
+.nrepl-port
